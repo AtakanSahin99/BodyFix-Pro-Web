@@ -1,0 +1,7 @@
+# PHP gitignore
+*.log
+.DS_Store
+Thumbs.db
+desktop.ini
+.idea/
+.vscode/
